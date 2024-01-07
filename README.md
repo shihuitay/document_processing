@@ -1,4 +1,4 @@
-# Document Processing
+### Document Processing
 
 This project explores various document processing techniques aimed at accurately identifying named entities and company logos within documents. Key components include:
 
