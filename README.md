@@ -1,6 +1,5 @@
 # Document Processing
 
-## Project Overview
 This project explores various document processing techniques aimed at accurately identifying named entities and company logos within documents. Key components include:
 
 - Logo Detection: A YOLOv8 model has been trained for the recognition of company logos. 
